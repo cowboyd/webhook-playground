@@ -1,3 +1,3 @@
 # Playground
 
-This playground has a webhook configured
+This playground has a webhook configured!
